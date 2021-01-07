@@ -3,3 +3,4 @@ MOBILE PORTAL SALES
 - saya ingin konsisten dalam bercoding.
 - saya akan membuat aplikasi ini menjadi baik untuk kedepannya.
 - GOALs saya dalam membuat aplikasi ini adalah untuk memudahkan sales dalam bekerja.
+- memasukan index.html
